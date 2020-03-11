@@ -4,3 +4,6 @@ Requisitos:
 
   Realizando a conferência de estooque dos materiais, precisamos realizar a checagem de estoque entre diversos produtos, para que numa ocasião
 de um inventário, não acarrete em problemas.
+
+  No PCP uma das funções é a separação de materiais antes de serem liberados para o cliente ou para a montagem de um produto.
+  
