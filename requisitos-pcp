@@ -7,3 +7,6 @@ de um inventário, não acarrete em problemas.
 
   No PCP uma das funções é a separação de materiais antes de serem liberados para o cliente ou para a montagem de um produto.
   
+  Após o recebimento do pedido do cliente, checa-se se possuimos os materiais para atendimento do pedido e se caso não possuirmos é necessário
+  dar inicio no processo de compra dos mateirais.
+  
